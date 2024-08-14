@@ -10,7 +10,8 @@ console.log(yo.split(' ')); //splitting in form of an array
 console.log(yo.replace('Meow' , 'Kalua')); //replacing 1 element with other
 console.log(yo.replaceAll('Meow','Kalua'));//replacing when same element is present more than once
 console.log(yo.charAt(0));//character present at the index
-console.log(yo.charCodeAt(2:m));
+console.log(yo.endsWith("Nigga"));
+
 
 
 
